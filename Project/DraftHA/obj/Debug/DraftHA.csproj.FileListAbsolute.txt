@@ -1,0 +1,40 @@
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA\DraftHA\bin\Debug\DraftHA.exe.config
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA\DraftHA\bin\Debug\DraftHA.exe
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA\DraftHA\bin\Debug\DraftHA.pdb
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA\DraftHA\obj\Debug\DraftHA.csprojAssemblyReference.cache
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA\DraftHA\obj\Debug\DraftHA.Form1.resources
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA\DraftHA\obj\Debug\DraftHA.Properties.Resources.resources
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA\DraftHA\obj\Debug\DraftHA.csproj.GenerateResource.cache
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA\DraftHA\obj\Debug\DraftHA.csproj.CoreCompileInputs.cache
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA\DraftHA\obj\Debug\DraftHA.exe
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA\DraftHA\obj\Debug\DraftHA.pdb
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy\DraftHA\bin\Debug\DraftHA.exe.config
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy\DraftHA\bin\Debug\DraftHA.exe
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy\DraftHA\bin\Debug\DraftHA.pdb
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.csprojAssemblyReference.cache
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.Form1.resources
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.Properties.Resources.resources
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.csproj.GenerateResource.cache
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.csproj.CoreCompileInputs.cache
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.exe
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.pdb
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy v3 2\DraftHA - Student Copy\DraftHA\bin\Debug\DraftHA.exe.config
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy v3 2\DraftHA - Student Copy\DraftHA\bin\Debug\DraftHA.exe
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy v3 2\DraftHA - Student Copy\DraftHA\bin\Debug\DraftHA.pdb
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy v3 2\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.csprojAssemblyReference.cache
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy v3 2\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.Form1.resources
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy v3 2\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.Properties.Resources.resources
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy v3 2\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.csproj.GenerateResource.cache
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy v3 2\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.csproj.CoreCompileInputs.cache
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy v3 2\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.exe
+D:\Documents\MCAST\22-23\OOP\Solutions\DraftHA - Student Copy v3 2\DraftHA - Student Copy\DraftHA\obj\Debug\DraftHA.pdb
+C:\Users\ignja\Desktop\askjnmodoalkd\Student Template2\DraftHA\bin\Debug\DraftHA.exe.config
+C:\Users\ignja\Desktop\askjnmodoalkd\Student Template2\DraftHA\bin\Debug\DraftHA.exe
+C:\Users\ignja\Desktop\askjnmodoalkd\Student Template2\DraftHA\bin\Debug\DraftHA.pdb
+C:\Users\ignja\Desktop\askjnmodoalkd\Student Template2\DraftHA\obj\Debug\DraftHA.csprojAssemblyReference.cache
+C:\Users\ignja\Desktop\askjnmodoalkd\Student Template2\DraftHA\obj\Debug\DraftHA.Form1.resources
+C:\Users\ignja\Desktop\askjnmodoalkd\Student Template2\DraftHA\obj\Debug\DraftHA.Properties.Resources.resources
+C:\Users\ignja\Desktop\askjnmodoalkd\Student Template2\DraftHA\obj\Debug\DraftHA.csproj.GenerateResource.cache
+C:\Users\ignja\Desktop\askjnmodoalkd\Student Template2\DraftHA\obj\Debug\DraftHA.csproj.CoreCompileInputs.cache
+C:\Users\ignja\Desktop\askjnmodoalkd\Student Template2\DraftHA\obj\Debug\DraftHA.exe
+C:\Users\ignja\Desktop\askjnmodoalkd\Student Template2\DraftHA\obj\Debug\DraftHA.pdb
